@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is E2E4-9B24
+
+ Directory of E:\Raina_MSA\Documents\GitDemo
+
+15-05-2021  18:31    <DIR>          .
+15-05-2021  18:31    <DIR>          ..
+15-05-2021  18:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  249,794,854,912 bytes free
